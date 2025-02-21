@@ -11,4 +11,6 @@ A currency converter website, complete with seven currencies and a spinning bord
 ### JPY - Japanese Yen
 ### USD - United States Dollar
 
-
+## Preview
+it should look something like *this.*
+![Preview of the site](Screenshot.png)
